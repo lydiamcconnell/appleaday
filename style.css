@@ -1,0 +1,219 @@
+body {
+	background: #F4F8F0;
+	color: #4D4D4D;
+}
+.container {
+	max-width: 1024px;
+	margin: auto;
+}
+#header {
+	background: #C8E9A0;
+	color: #4D4D4D;
+	padding: 20px;
+	position: relative;
+	height: 65px;
+	z-index: 2;
+}
+#header .logo {
+	position: relative;
+	bottom: 10px;
+	left: 20px;
+}
+#header .logo img {
+	vertical-align: middle;
+}
+#header .logo span {
+	padding: 0px 20px 30px 4px;
+	font-size: 23px;
+	vertical-align: super;
+}
+#intro {
+	background: #F4F8F0;
+	color: #4D4D4D;
+	padding: 80px 0 100px 50px;
+	font-family: "Avenir";
+	position: relative;
+}
+#intro h1 {
+	font-size: 40px;
+	line-height: 65px;
+}
+#intro p {
+	font-size: 20px;
+	line-height: 35px;
+}
+.intro-copy {
+	padding: 0 0 40px 0;
+	max-width: 435px;
+}
+.btn {
+	margin: auto;
+	margin-top: 30px;
+	display: block;
+	max-width: 191px;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	background: #FFF;
+	color: #367875;
+	border-radius: 33.5px;
+	box-shadow: 0px 3px 7px 0px #495739;
+	line-height: normal;
+}
+.apple {
+	position: absolute;
+	bottom: 100px;
+	right: 100px;
+	top: 16%;
+	width: 300px;
+}
+#perks {
+	border-radius: 30px;
+	background: white;
+	color: #4D4D4D;
+	font-family: "Avenir";
+	position: relative;
+	text-align: center;
+	padding: 30px 30px;
+}
+#perks h1 {
+	margin-bottom: 50px;
+}
+#perks img {
+	margin-bottom: 20px;
+}
+#perks p {
+	font-size: 16px;
+}
+
+.fruit {
+	
+	bottom: 100px;
+	left: 100px;
+	top: 80px;
+	width: 100px;
+}
+
+}
+.lemon2 {
+	position: absolute;
+	bottom: 100px;
+	top: 80px;
+	width: 100px;
+}
+
+.orange2 {
+	position: absolute;
+	bottom: 100px;
+	left: 100px;
+	top: 80px;
+	width: 100px;
+}
+.simple-to-use {
+	text-align: center;
+	padding: 30px;
+}
+.testimonial {
+	max-width: 1024px;
+	margin: auto;
+	font-family: "Avenir";
+}
+#testimonials .image .profile {
+	margin: auto;
+}
+#testimonals .image {}
+#testimonals .row {
+	max-width: 600px;
+	margin: auto;
+}
+#testimonals .copy {
+	color: #FFF;
+	font-size: 19px;
+	text-align: left;
+	padding: 45px 0;
+}
+#testimonals h1 {
+	color: #FFF;
+	margin-top: 0;
+}
+.testimonial span {
+	font-size: 22px;
+	margin-top: 12px;
+	display: block;
+	color: #FFF;
+}
+#testimonals {
+	border-radius: 30px;
+	background: #EB7772;
+	color: #4D4D4D;
+	position: relative;
+	font-family: avenir;
+	text-align: center;
+	padding: 50px 30px;
+}
+#testimonals .left-arrow {
+	position: absolute;
+	left: 30px;
+	top: 43%
+}
+#testimonals .right-arrow {
+	position: absolute;
+	right: 30px;
+	top: 43%
+}
+#newsletter {
+	border-radius: 30px;
+	background: #FFFFFF;
+	padding: 50px 0;
+	text-align: center;
+	font-family: avenir;
+	max-width: 1024px;
+	/*height: 300px;*/
+}
+#newsletter .btn {
+	margin: 20px auto 0 auto;
+	font-family: avenir;
+}
+#wrapper {
+	padding: 50px;
+}
+input {
+	margin: 30px 0;
+	border: none;
+	background: pink;
+	height: 45px;
+	width: 100%;
+	max-width: 400px;
+	border-radius: 45px;
+	padding: 0 25px;
+}
+#newsletter h2 {
+	line-height: 40px;
+}
+#newsletter .btn {
+	display: block;
+	max-width: 215px;
+	padding: 15px;
+	font-size: 19px;
+	text-align: center;
+	text-decoration: none;
+	background: #367875;
+	border-radius: 33.5px;
+	box-shadow: 0px 3px 7px 0px #495739;
+	line-height: normal;
+	color: #FFF;
+}
+#footer {
+	padding: 20px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	background: #C8E9A0;
+	text-align: right;
+}
+#footer ul {
+	margin: 0;
+}
+#footer li {
+	display: inline-block;
+	margin: 0 5px;
+}
