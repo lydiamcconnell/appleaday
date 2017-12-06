@@ -86,13 +86,6 @@ body {
 	font-size: 16px;
 }
 
-.fruit {
-	
-	bottom: 100px;
-	left: 100px;
-	top: 80px;
-	width: 100px;
-}
 
 }
 .lemon2 {
@@ -168,7 +161,7 @@ body {
 	text-align: center;
 	font-family: avenir;
 	max-width: 1024px;
-	/*height: 300px;*/
+
 }
 #newsletter .btn {
 	margin: 20px auto 0 auto;
@@ -180,7 +173,7 @@ body {
 input {
 	margin: 30px 0;
 	border: none;
-	background: pink;
+	background: #FDF1F0;
 	height: 45px;
 	width: 100%;
 	max-width: 400px;
